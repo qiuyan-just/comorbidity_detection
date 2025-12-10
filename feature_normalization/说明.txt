@@ -1,0 +1,13 @@
+emb-cn-mentalbert语义特征
+
+doc_topic_6主题特征
+
+emotion_results 情绪特征
+
+sentiment_results 情感特征 sentiment_converted是truefalse替换后的情感特征
+
+post 帖子特征 post_converted是truefalse替换后的帖子特征
+
+用户社交特征33是填充17个记录两列为0 的用户特征
+
+all_features是上述所有特征的集合

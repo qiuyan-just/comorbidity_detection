@@ -1,0 +1,7 @@
+
+情感特征.ipynb是计算BOSON情感分数和情感强度的
+
+情绪特征.ipynb是计算cnsenti_情绪_results.csv的
+
+
+BOSON情感分析结果+情感强度.xlsx是两个表合并得到的
